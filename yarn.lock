@@ -2037,10 +2037,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.3.2:
-  version "9.3.2"
-  resolved "https://unpm.uberinternal.com/baseui/-/baseui-9.3.2.tgz#1616b206919e9b9eeb94fc6e669f72d450a21e08"
-  integrity sha1-FhayBpGem57rlPxuZp9y1FCiHgg=
+baseui@9.3.4-beta:
+  version "9.3.4-beta"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.3.4-beta.tgz#9c51efa72e4686a666522ff2574ff4ec698976a3"
+  integrity sha512-KH3mjFaZ+bVRH9552eck1JkGaTKPZi1k9XJmAKG2CEHfDXD8lyiP0IuDd0g3nLC7VFYbLKgqpq5yRR7mmSlszQ==
   dependencies:
     card-validator "^6.1.0"
     date-fns "2.2.1"
@@ -10119,9 +10119,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3, whatwg-encoding@^1.0.5:
   version "1.0.5"
