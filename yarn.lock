@@ -2037,10 +2037,10 @@ base@^0.11.1:
     mixin-deep "^1.2.0"
     pascalcase "^0.1.1"
 
-baseui@^9.3.2:
-  version "9.3.2"
-  resolved "https://unpm.uberinternal.com/baseui/-/baseui-9.3.2.tgz#1616b206919e9b9eeb94fc6e669f72d450a21e08"
-  integrity sha1-FhayBpGem57rlPxuZp9y1FCiHgg=
+baseui@9.3.4-beta:
+  version "9.3.4-beta"
+  resolved "https://registry.yarnpkg.com/baseui/-/baseui-9.3.4-beta.tgz#9c51efa72e4686a666522ff2574ff4ec698976a3"
+  integrity sha512-KH3mjFaZ+bVRH9552eck1JkGaTKPZi1k9XJmAKG2CEHfDXD8lyiP0IuDd0g3nLC7VFYbLKgqpq5yRR7mmSlszQ==
   dependencies:
     card-validator "^6.1.0"
     date-fns "2.2.1"
@@ -3190,9 +3190,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
